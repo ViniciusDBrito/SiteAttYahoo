@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+    color:white;
+    background-color:rgb(22, 22, 22);
+    margin:0;
+    padding:0;
+}
+body a{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: white;
+    font-size: 18px;
+    list-style: none;
+    transition: 0.5s;
+}
+
+body a:hover
+{
+    color: red;
+    transition: 0.5s;
+}
+
+#busca{
+    text-decoration: none;
+}
+
+#MY{
+    color: red;
+    font-size: 18px;
+}
+
+#YS{
+    color: red;
+    font-size: 18px;
+}
+
+#OG{
+    color: red;
+    font-size: 18px;
+}
+
+.titulos{
+    text-decoration: none;
+    font-size: 19px;
+}
+
+body small i{
+    font-size: 15px;
+}
+
+.cabeçalho{
+    text-decoration: none;
+}
+
+#caixa{
+    background-color: rgb(221, 48, 48);
+}
+
+#caixa2{
+    background-color: rgb(255, 255, 255);
+}
+
+#caixa2 b{
+    color: black;
+}
+
+.cx2{
+    color: black;
+    font-size: 17px;
+}
+
+#caixa3{
+    background-color: rgb(255, 255, 255);
+}
+
+#caixa3 b{
+    color: black;
+}
+
+.cx3, .cx3 a{
+    color: black;
+    font-size: 17px; 
+}
